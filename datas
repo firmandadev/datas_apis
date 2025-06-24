@@ -1,0 +1,26 @@
+{
+  "upt":["Sekretariat","Pengendalian dan Pembinaan","Perencanaan dan Pengembangan","Pajak Daerah","Retribusi dan PLL",
+    "Surabaya Selatan", "Surabaya Timur",
+    "Surabaya Utara", "Surabaya Barat",
+    "Malang Utara dan Batu","Malang Kota",
+    "Malang Selatan","Pasuruan","Probolinggo",
+    "Jember","Banyuwangi","Bondowoso",
+    "Situbondo","Lumajang","Bojonegoro",
+    "Tuban","Lamongan","Gresik","Pamekasan",
+    "Sampang","Sumenep","Bangkalan","Kediri",
+    "Blitar","Tulungagung","Trenggalek",
+    "Sidoarjo","Mojokerto","Jombang","Nganjuk",
+    "Madiun","Ngawi","Ponorogo","Pacitan",
+    "Magetan"
+  ],
+  "jabatan":[
+    ["kaupt","Kepala UPT"],
+    ["kasubbid","Kepala Sub Bidang"],
+    ["katim","Ketua Tim Kerja"],
+    ["katu","Kepala Subbagian Tata Usaha"],
+    ["katap","Kepala Seksi Pendataan dan Penetapan"],
+    ["kagih","Kepala Seksi Pembayaran dan Penagihan"],
+    ["pdpp","Pengelola Data Pelayanan Perpajakan"],
+    ["staf","Staf"]
+  ]
+}
